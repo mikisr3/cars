@@ -1,0 +1,321 @@
+.create{
+	background-color:#eee;
+	border-style:ridge;
+	height:200px;
+	width:30%;
+	margin:5px;
+	
+}
+
+.create_edit{
+	
+	background-color:#eee;
+	border-style:ridge;
+	height:400px;
+	width:28%;
+	margin-left:450px;
+	margin-top:50px;
+	
+	
+}
+
+.filter{float:left;padding:10px;}
+
+.create1{
+	background-color:#eee;
+	border-style:ridge;
+	height:270px;
+	width:25%;
+	margin-top:50px;
+	margin-left:450px;
+	padding:10px;
+}
+
+.b{
+	width:30px;
+	
+    height:25px;
+	background-color:#2A9DF4;
+	margin-top:2px;
+	margin-left:3px;
+	text-align:center;
+	vertical-align:center;
+	font-family:monospace;
+	font-size:15px;
+	float:right;
+	margin-right:3px;
+	cursor:pointer;
+	
+	
+	
+	
+	
+	
+	
+	
+}
+.block{
+	width:80px;
+    height:30px;
+    background-color:blue;
+	
+	
+	float:right;
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+.create1_search{
+	background-color:#eee;
+	border-style:ridge;
+	height:170px;
+	width:25%;
+	margin-top:50px;
+	margin-left:450px;
+	padding:10px;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+.create1_result{
+	
+	
+	
+	width:100%;
+	margin-top:5px;
+	margin-left:190px;
+	
+	padding:5px;
+}
+
+.pmsg {
+	
+	/*margin-left:450px;*/
+	/*font-family:monospace;*/
+	font-size: 25px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	
+	
+	
+	
+}
+
+.create1_result1{
+	
+	width:100%;
+	margin-top:5px;
+	margin-left:445px;
+	font-family:monospace;
+	font-size:20px;
+	
+	padding:5px;
+	
+	
+	
+	
+	
+	
+}
+
+.create1_addCar{
+	
+	height:65px;
+	width:40%;
+	margin-top:10px;
+	margin-left:450px;
+	padding:10px;
+	font-family:monospace;
+	font-size:20px;
+	
+	
+	
+	
+	
+	
+	
+}
+
+body {background-color:#FCE8EC;}
+
+
+.addcar{float:right;margin-right:850px;margin-top:-110px;}
+
+.addcar_search{float:right;margin-right:850px;margin-top:-60px;}
+
+.order_search{float:right;margin-right:830px;margin-top:-10px;}
+
+
+
+.addcar1{font-weight:bold;width:100px; height: 30px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;}
+
+.addcar1_search{font-weight:bold;width:120px; height: 30px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;}
+
+
+.inline{display:inline-block;}
+
+.caption_font{color:white;font-size:150%;font-weight:bold;letter-spacing:5px;text-shadow: -3px 0 black, 0 2px black, 2px 0 black, 0 -2px black;}
+
+.edit_submit{width: 55px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;}
+
+.BACK_submit{width: 55px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:420px;}
+
+.NEXT_submit{width: 55px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:10px;}
+
+.edit_submit_1{width: 250px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;}
+
+.edit_submit_2{width: 100px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:10px;margin-top:-15px;position:absolute}
+
+.edit_submit_21{width: 100px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:10px;margin-top:-15px;}
+
+.edit_submit_2_back{width: 100px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:225px;margin-top:-31px;position:absolute;}
+
+.edit_submit_2_back2{width: 100px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:225px;margin-top:10px;position:absolute;}
+.edit_submit_purchase{width: 100px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:10px;margin-top:-30px;position:absolute}
+
+.edit_submit_purchase_back{width: 100px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:-40px;margin-top:375px;position:absolute;}
+
+.edit_submit_Delete_Rows{width: 100px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;}
+
+.edit_submit_2_back_edit{width: 100px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:-120px;margin-top:365px;position:absolute;}
+.edit_submit_view_orders{width: 150px; height: 40px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;}
+.edit_submit_view_order_back{width: 100px; height: 30px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;margin-left:420px;}
+
+
+
+
+.edit_submit_4{width: 55px; height: 20px;color:white;background-color:#595959;border-radius:7px;cursor:pointer;}
+
+.List_Table_Yes{float:right;margin-right:450px;margin-top:-110px;}
+
+.List_Table_No{float:right;margin-right:400px;margin-top:-110px;}
+
+
+
+table{
+	width:70%;
+	border-collapse: collapse;
+}
+
+table , td {
+	border:2.5px solid black;
+	border-style:ridge;
+	border-color:lightblue;
+	
+	
+}
+
+table tr:hover td  {
+	
+	-webkit-transform: scale(1.1);
+	cursor:pointer;
+	background-color: rgba(0, 0, 0, 0.086); 
+	
+	
+	
+	
+	
+}
+
+
+
+table tr:hover {
+	
+	
+	
+	
+	
+	
+}
+
+
+
+
+td {
+	text-align:center;
+	
+}
+th{ border:3px solid black;}
+
+
+table tr:nth-child(odd){background-color:#eee;}
+table tr:nth-child(even){background-color:white;}
+
+
+
+.modal {
+ /* display: none;*/ /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+
+ /* background-color: #fefefe;*/
+  margin: auto;
+  padding: 50px;
+ /* border: 1px solid #888;*/
+  width: 50%;
+  height:150px;
+  background-color:#FCE8EC;
+	border-style:ridge;
+	margin-top: 80px;
+	animation-name: mymove;
+    animation-duration: 0.3s;
+}
+
+@keyframes mymove {
+  from{margin-top: -400px;}
+  to {margin-top: 80px;}
+}
+
+
+
+.modal-content p{
+
+
+	text-align: left;
+
+}
+
+
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 38px;
+  font-weight: bold;
+ 
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
